@@ -1,23 +1,16 @@
-const express = require('express');
-const fs = require('fs');
-const path = require('path');
+const express = require("express");
 const router = express.Router();
-const DATA_PATH = path.join(__dirname, '../../data/items.json');
+const { getStats } = require("../service/stats");
+const CustomError = require("../CustomError");
+const { routeErrorHandler } = require("../middleware/errorHandler");
+
+async function getStatsHandler(req, res) {
+  const stats = await getStats();
+  res.json(stats);
+  // throw new CustomError({msg: "My random error"})
+}
 
 // GET /api/stats
-router.get('/', (req, res, next) => {
-  fs.readFile(DATA_PATH, (err, raw) => {
-    if (err) return next(err);
-
-    const items = JSON.parse(raw);
-    // Intentional heavy CPU calculation
-    const stats = {
-      total: items.length,
-      averagePrice: items.reduce((acc, cur) => acc + cur.price, 0) / items.length
-    };
-
-    res.json(stats);
-  });
-});
+router.get("/", routeErrorHandler(getStatsHandler));
 
 module.exports = router;

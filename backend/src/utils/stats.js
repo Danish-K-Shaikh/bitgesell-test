@@ -1,6 +1,8 @@
 // Utility intentionally unused by routes (candidate should refactor)
-function mean(arr) {
-  return arr.reduce((a, b) => a + b, 0) / arr.length;
+function getAverageAndTotalPrice(arr) {
+  const total = arr.reduce((a, b) => a + b.price, 0);
+
+  return { average: total / arr.length, total };
 }
 
-module.exports = { mean };
+module.exports = { getAverageAndTotalPrice };

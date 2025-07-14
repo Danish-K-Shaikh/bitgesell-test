@@ -1,7 +1,6002 @@
 [
-  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
-  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
-  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
-  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+  {
+    "id": 3788209159570,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 3626
+  },
+  {
+    "id": 5218199411212,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 8213
+  },
+  {
+    "id": 1621586690770,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 2110
+  },
+  {
+    "id": 8788863417112,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 6163
+  },
+  {
+    "id": 1851733643342,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 8563
+  },
+  {
+    "id": 9836195568954,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 7842
+  },
+  {
+    "id": 8146023150186,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 6291
+  },
+  {
+    "id": 5142773365002,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 9525
+  },
+  {
+    "id": 1459702057869,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 5129
+  },
+  {
+    "id": 3650723967786,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 6271
+  },
+  {
+    "id": 4751091656787,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 8982
+  },
+  {
+    "id": 3135111572917,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 3418
+  },
+  {
+    "id": 7707993548398,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 4399
+  },
+  {
+    "id": 2590322044192,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 3081
+  },
+  {
+    "id": 2714708360941,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 4012
+  },
+  {
+    "id": 3540788948043,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 9381
+  },
+  {
+    "id": 1443181132142,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 3461
+  },
+  {
+    "id": 1104430987981,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6892
+  },
+  {
+    "id": 1071150783949,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 8932
+  },
+  {
+    "id": 4980454956352,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 2635
+  },
+  {
+    "id": 9407335375828,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 6464
+  },
+  {
+    "id": 6302287838258,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 9497
+  },
+  {
+    "id": 4655116830967,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 7293
+  },
+  {
+    "id": 8300956316292,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 8183
+  },
+  {
+    "id": 4381455282841,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 4761
+  },
+  {
+    "id": 9975868668762,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 406
+  },
+  {
+    "id": 3743362662928,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 8147
+  },
+  {
+    "id": 3869120246278,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 2145
+  },
+  {
+    "id": 6275232460201,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 9968
+  },
+  {
+    "id": 5210423169161,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 3944
+  },
+  {
+    "id": 6862830044312,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 6337
+  },
+  {
+    "id": 2290754326418,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 8230
+  },
+  {
+    "id": 3208753998355,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 5442
+  },
+  {
+    "id": 9054239462412,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 9717
+  },
+  {
+    "id": 6360532117624,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 7265
+  },
+  {
+    "id": 4352993857161,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 8172
+  },
+  {
+    "id": 9386194758961,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 2734
+  },
+  {
+    "id": 5091002396641,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 8501
+  },
+  {
+    "id": 4076100240204,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 4872
+  },
+  {
+    "id": 1052743653497,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 1983
+  },
+  {
+    "id": 3806919412317,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2028
+  },
+  {
+    "id": 5106127989075,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 4219
+  },
+  {
+    "id": 1832298767665,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 1040
+  },
+  {
+    "id": 1452681769475,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 5597
+  },
+  {
+    "id": 9157563737016,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 1286
+  },
+  {
+    "id": 4584905940112,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 8243
+  },
+  {
+    "id": 9365276365315,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 6055
+  },
+  {
+    "id": 9634850533667,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 7903
+  },
+  {
+    "id": 6382346073329,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 428
+  },
+  {
+    "id": 7965150042758,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 9442
+  },
+  {
+    "id": 7998875407924,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 6811
+  },
+  {
+    "id": 9542274828204,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 9285
+  },
+  {
+    "id": 4979584787078,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 9005
+  },
+  {
+    "id": 2690419578303,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 5200
+  },
+  {
+    "id": 7338415711770,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 7116
+  },
+  {
+    "id": 8156678275599,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 4324
+  },
+  {
+    "id": 5708617980538,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 4480
+  },
+  {
+    "id": 6344948792532,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 6936
+  },
+  {
+    "id": 8088928958600,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 1662
+  },
+  {
+    "id": 3805839435421,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 3796
+  },
+  {
+    "id": 9160335621940,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 1303
+  },
+  {
+    "id": 4331451776225,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 6955
+  },
+  {
+    "id": 9766491208333,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 9773
+  },
+  {
+    "id": 8066923210834,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 426
+  },
+  {
+    "id": 6597718506239,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 3504
+  },
+  {
+    "id": 3561155301490,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 6355
+  },
+  {
+    "id": 9275193344339,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 1446
+  },
+  {
+    "id": 1726386163245,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 8122
+  },
+  {
+    "id": 1653170321485,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 1911
+  },
+  {
+    "id": 8452218918001,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 9962
+  },
+  {
+    "id": 3391194328832,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 149
+  },
+  {
+    "id": 6461761137074,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 3998
+  },
+  {
+    "id": 3495012612933,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 9306
+  },
+  {
+    "id": 8705220887475,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 4649
+  },
+  {
+    "id": 8468303110471,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 267
+  },
+  {
+    "id": 8752153508666,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 4156
+  },
+  {
+    "id": 6935595520184,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 830
+  },
+  {
+    "id": 5245560859301,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 1147
+  },
+  {
+    "id": 7863981188556,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 2880
+  },
+  {
+    "id": 3256030135878,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 1515
+  },
+  {
+    "id": 8980961627051,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 852
+  },
+  {
+    "id": 8272826948409,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 4100
+  },
+  {
+    "id": 2202249187479,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 5013
+  },
+  {
+    "id": 4624590312741,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 6183
+  },
+  {
+    "id": 9371654100606,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 7651
+  },
+  {
+    "id": 3051044713939,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 8309
+  },
+  {
+    "id": 2969662070909,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 6015
+  },
+  {
+    "id": 7421344922582,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 5688
+  },
+  {
+    "id": 9943734913477,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 821
+  },
+  {
+    "id": 8930983052857,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 2986
+  },
+  {
+    "id": 6619576364404,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 7597
+  },
+  {
+    "id": 8606361876069,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 7369
+  },
+  {
+    "id": 5442555845581,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 5761
+  },
+  {
+    "id": 1200070643961,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 4205
+  },
+  {
+    "id": 9986916659298,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 1899
+  },
+  {
+    "id": 9727472595955,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 8078
+  },
+  {
+    "id": 8297360945951,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 2644
+  },
+  {
+    "id": 8114388319895,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 4725
+  },
+  {
+    "id": 6374787404957,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 3161
+  },
+  {
+    "id": 4245292920010,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 4835
+  },
+  {
+    "id": 1051029373041,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 694
+  },
+  {
+    "id": 7498290732606,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 1411
+  },
+  {
+    "id": 6675405267111,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 6205
+  },
+  {
+    "id": 3047447905369,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 2280
+  },
+  {
+    "id": 5795326755729,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 3753
+  },
+  {
+    "id": 5441064410785,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 3632
+  },
+  {
+    "id": 4599819775442,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 9212
+  },
+  {
+    "id": 1323973504695,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 5676
+  },
+  {
+    "id": 8950983278972,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 6908
+  },
+  {
+    "id": 1148048107954,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 9835
+  },
+  {
+    "id": 3604863485620,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 2156
+  },
+  {
+    "id": 4784135597969,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 7989
+  },
+  {
+    "id": 9614784679812,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 6867
+  },
+  {
+    "id": 5991237001653,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 8789
+  },
+  {
+    "id": 9928702192930,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 3483
+  },
+  {
+    "id": 7036871627433,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 8434
+  },
+  {
+    "id": 6262355095620,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 1232
+  },
+  {
+    "id": 6137321848834,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 8589
+  },
+  {
+    "id": 1044433405238,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 9542
+  },
+  {
+    "id": 3869619825372,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 9316
+  },
+  {
+    "id": 1389788486126,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 4398
+  },
+  {
+    "id": 4898945082484,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 3196
+  },
+  {
+    "id": 5264561841232,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 9897
+  },
+  {
+    "id": 4129559759398,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 9133
+  },
+  {
+    "id": 9216727527773,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 310
+  },
+  {
+    "id": 3342723404746,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 5486
+  },
+  {
+    "id": 4643877024362,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 2946
+  },
+  {
+    "id": 9266702548106,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 6545
+  },
+  {
+    "id": 4325277518569,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 8800
+  },
+  {
+    "id": 2651228439190,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 8051
+  },
+  {
+    "id": 1953128788872,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2764
+  },
+  {
+    "id": 5046238409783,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 1903
+  },
+  {
+    "id": 2314039258238,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 7552
+  },
+  {
+    "id": 7124639295615,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 584
+  },
+  {
+    "id": 2539972821189,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 9332
+  },
+  {
+    "id": 6117873567229,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 7425
+  },
+  {
+    "id": 2592717252297,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 2343
+  },
+  {
+    "id": 2268779937132,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 6240
+  },
+  {
+    "id": 3132285926618,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 9197
+  },
+  {
+    "id": 4396283236634,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 8097
+  },
+  {
+    "id": 9691052586119,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 841
+  },
+  {
+    "id": 9295352858471,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 3059
+  },
+  {
+    "id": 9203648211772,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 3312
+  },
+  {
+    "id": 6323223537813,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 7726
+  },
+  {
+    "id": 9957840752133,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 3492
+  },
+  {
+    "id": 6312989917459,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 3085
+  },
+  {
+    "id": 3843609882393,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 7311
+  },
+  {
+    "id": 6007842649176,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 8168
+  },
+  {
+    "id": 4716705254028,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 8274
+  },
+  {
+    "id": 3295162417753,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 1662
+  },
+  {
+    "id": 6737220129091,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 3807
+  },
+  {
+    "id": 2799273326871,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 4986
+  },
+  {
+    "id": 7620499099160,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6204
+  },
+  {
+    "id": 6954629256204,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2657
+  },
+  {
+    "id": 3286951664841,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 7971
+  },
+  {
+    "id": 4771091672818,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 9912
+  },
+  {
+    "id": 2592173764190,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 2915
+  },
+  {
+    "id": 2592661005314,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 4656
+  },
+  {
+    "id": 7670374153136,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 7849
+  },
+  {
+    "id": 2612342223457,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 4242
+  },
+  {
+    "id": 5804571683899,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 3663
+  },
+  {
+    "id": 2935620692444,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 3187
+  },
+  {
+    "id": 7792229187475,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 3995
+  },
+  {
+    "id": 5706072521679,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 6782
+  },
+  {
+    "id": 9541045242496,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 8166
+  },
+  {
+    "id": 1441315608880,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 3427
+  },
+  {
+    "id": 1119610236094,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 1115
+  },
+  {
+    "id": 5815987793345,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 4874
+  },
+  {
+    "id": 4990996257152,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 9266
+  },
+  {
+    "id": 1141213287396,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 1039
+  },
+  {
+    "id": 3472408111041,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 7392
+  },
+  {
+    "id": 7562169337488,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 5140
+  },
+  {
+    "id": 9033122333601,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 3123
+  },
+  {
+    "id": 5412547867235,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 3367
+  },
+  {
+    "id": 2958664352360,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 1246
+  },
+  {
+    "id": 3322038840673,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 2759
+  },
+  {
+    "id": 6985975332795,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 4056
+  },
+  {
+    "id": 5070878105723,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 4103
+  },
+  {
+    "id": 5397181867514,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 2816
+  },
+  {
+    "id": 6905195506910,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 4048
+  },
+  {
+    "id": 8949779659929,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 6635
+  },
+  {
+    "id": 6866977529483,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 2878
+  },
+  {
+    "id": 8402770365093,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 2921
+  },
+  {
+    "id": 2334610405525,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 5663
+  },
+  {
+    "id": 7503069806733,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 6963
+  },
+  {
+    "id": 9483335669370,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 7383
+  },
+  {
+    "id": 5797054928794,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 4045
+  },
+  {
+    "id": 9121576459669,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 8597
+  },
+  {
+    "id": 2322177586389,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 7065
+  },
+  {
+    "id": 1258562302202,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 7045
+  },
+  {
+    "id": 6709266651449,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 8701
+  },
+  {
+    "id": 8409010244239,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 9830
+  },
+  {
+    "id": 6566217018002,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 5784
+  },
+  {
+    "id": 8920698929698,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 6441
+  },
+  {
+    "id": 5229309251882,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 5578
+  },
+  {
+    "id": 9650547916040,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 1987
+  },
+  {
+    "id": 2763648026145,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 2601
+  },
+  {
+    "id": 6752919039232,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 2638
+  },
+  {
+    "id": 8558602638993,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 7052
+  },
+  {
+    "id": 2742293605350,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 5382
+  },
+  {
+    "id": 8359295872213,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 7442
+  },
+  {
+    "id": 9094016432409,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 1336
+  },
+  {
+    "id": 8845660209449,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 4934
+  },
+  {
+    "id": 4420251794472,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 7952
+  },
+  {
+    "id": 4046586273642,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 445
+  },
+  {
+    "id": 5983017471020,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 2308
+  },
+  {
+    "id": 6461578634637,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 7726
+  },
+  {
+    "id": 7258460238213,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 7868
+  },
+  {
+    "id": 8444920008916,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 3888
+  },
+  {
+    "id": 8022534281973,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 1768
+  },
+  {
+    "id": 1079696207296,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 2388
+  },
+  {
+    "id": 3889326013663,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 3714
+  },
+  {
+    "id": 9222436182595,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 5954
+  },
+  {
+    "id": 3627056072717,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 3503
+  },
+  {
+    "id": 7538308345689,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 313
+  },
+  {
+    "id": 3367622824026,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 9567
+  },
+  {
+    "id": 1708400273064,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 917
+  },
+  {
+    "id": 6420950450749,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 675
+  },
+  {
+    "id": 1911770022073,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 2571
+  },
+  {
+    "id": 4397529813426,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 9367
+  },
+  {
+    "id": 5389712784396,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 5406
+  },
+  {
+    "id": 2299942673777,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 2713
+  },
+  {
+    "id": 5983285496614,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 3334
+  },
+  {
+    "id": 5578442264119,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 7986
+  },
+  {
+    "id": 4531953847371,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 3391
+  },
+  {
+    "id": 8290503549850,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 3647
+  },
+  {
+    "id": 8185115879337,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 1917
+  },
+  {
+    "id": 4022616674025,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 2048
+  },
+  {
+    "id": 7234201089094,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 6204
+  },
+  {
+    "id": 1647422903835,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 9326
+  },
+  {
+    "id": 5345101822969,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 5593
+  },
+  {
+    "id": 5043792094825,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 4427
+  },
+  {
+    "id": 4387142358226,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 842
+  },
+  {
+    "id": 2398885786153,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 2748
+  },
+  {
+    "id": 8372574951643,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 1568
+  },
+  {
+    "id": 1438052326941,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 7735
+  },
+  {
+    "id": 5400753243615,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 9989
+  },
+  {
+    "id": 1934614035616,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 611
+  },
+  {
+    "id": 6869642415009,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 1074
+  },
+  {
+    "id": 1330084901455,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 4250
+  },
+  {
+    "id": 8590248826525,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 6712
+  },
+  {
+    "id": 5704111612288,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 3515
+  },
+  {
+    "id": 2167037477307,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 7792
+  },
+  {
+    "id": 4931097056601,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 4710
+  },
+  {
+    "id": 3011186679643,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 9602
+  },
+  {
+    "id": 9319297111858,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 2094
+  },
+  {
+    "id": 3013939374175,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 2130
+  },
+  {
+    "id": 8772231548838,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 3714
+  },
+  {
+    "id": 7867865020131,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 3943
+  },
+  {
+    "id": 5033733967839,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 8461
+  },
+  {
+    "id": 9365743875545,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 5327
+  },
+  {
+    "id": 4289455425608,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 7326
+  },
+  {
+    "id": 3322338353907,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 1892
+  },
+  {
+    "id": 4180211093131,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 7150
+  },
+  {
+    "id": 5018192946616,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 8239
+  },
+  {
+    "id": 1036173535868,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 903
+  },
+  {
+    "id": 9045474213566,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 5500
+  },
+  {
+    "id": 5475595158519,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 9013
+  },
+  {
+    "id": 9292715305846,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 2727
+  },
+  {
+    "id": 2114289353484,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 348
+  },
+  {
+    "id": 7175395556065,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 7992
+  },
+  {
+    "id": 5673311053716,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 1495
+  },
+  {
+    "id": 7203814258763,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 7892
+  },
+  {
+    "id": 2684551845354,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6158
+  },
+  {
+    "id": 4611907978360,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 5189
+  },
+  {
+    "id": 5602173393782,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 8943
+  },
+  {
+    "id": 8180540982927,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 5471
+  },
+  {
+    "id": 5162220292362,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6786
+  },
+  {
+    "id": 4106557738393,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2361
+  },
+  {
+    "id": 2542584620145,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 1978
+  },
+  {
+    "id": 8399855709592,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 2442
+  },
+  {
+    "id": 7931838246588,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 4182
+  },
+  {
+    "id": 1208586030610,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 3051
+  },
+  {
+    "id": 7581751407841,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 6892
+  },
+  {
+    "id": 6856159940955,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 8913
+  },
+  {
+    "id": 3836421133308,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 7483
+  },
+  {
+    "id": 6737295666318,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 1421
+  },
+  {
+    "id": 1246122873025,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 1566
+  },
+  {
+    "id": 6507827277221,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6248
+  },
+  {
+    "id": 8337472027999,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 4045
+  },
+  {
+    "id": 5875949570077,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 8697
+  },
+  {
+    "id": 3252628479803,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 1713
+  },
+  {
+    "id": 4922018871899,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 9904
+  },
+  {
+    "id": 4318969183708,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 7139
+  },
+  {
+    "id": 5191579822243,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 4424
+  },
+  {
+    "id": 6306667101519,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 3406
+  },
+  {
+    "id": 3767681956910,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 9182
+  },
+  {
+    "id": 2680665870979,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 7337
+  },
+  {
+    "id": 2115486298859,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 9144
+  },
+  {
+    "id": 6253472848375,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 6869
+  },
+  {
+    "id": 2969904962351,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 8459
+  },
+  {
+    "id": 5217185337654,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 2723
+  },
+  {
+    "id": 8127610060141,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 802
+  },
+  {
+    "id": 2704390459805,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 3139
+  },
+  {
+    "id": 6577066301099,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 4732
+  },
+  {
+    "id": 3847223719217,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 1315
+  },
+  {
+    "id": 9538802619007,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 9285
+  },
+  {
+    "id": 2657796917801,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 593
+  },
+  {
+    "id": 1423618178775,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 7146
+  },
+  {
+    "id": 7262284994761,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 6650
+  },
+  {
+    "id": 9477878793357,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 4856
+  },
+  {
+    "id": 9527895449143,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 2010
+  },
+  {
+    "id": 2488669968781,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 2116
+  },
+  {
+    "id": 3862711905225,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 940
+  },
+  {
+    "id": 3245195638741,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 6262
+  },
+  {
+    "id": 4496849968813,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6438
+  },
+  {
+    "id": 7365817165930,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 5624
+  },
+  {
+    "id": 5020218826785,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 9234
+  },
+  {
+    "id": 4067716755975,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 8515
+  },
+  {
+    "id": 5288698333363,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 1730
+  },
+  {
+    "id": 8240675754050,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 2738
+  },
+  {
+    "id": 6690413110173,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 5733
+  },
+  {
+    "id": 4604419419838,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 3033
+  },
+  {
+    "id": 5215306711248,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 5904
+  },
+  {
+    "id": 2900976094832,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 1109
+  },
+  {
+    "id": 1913817995334,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 7559
+  },
+  {
+    "id": 5451091229472,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 3579
+  },
+  {
+    "id": 9331947065117,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 157
+  },
+  {
+    "id": 4697057463184,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 8856
+  },
+  {
+    "id": 6404220166338,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 5056
+  },
+  {
+    "id": 9618256451535,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 3291
+  },
+  {
+    "id": 3874575170298,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2149
+  },
+  {
+    "id": 7435197216731,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 4896
+  },
+  {
+    "id": 9407281315492,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 1608
+  },
+  {
+    "id": 9334567779319,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 2437
+  },
+  {
+    "id": 4617943677338,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 1720
+  },
+  {
+    "id": 8680143970453,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 9218
+  },
+  {
+    "id": 4661959383564,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 8095
+  },
+  {
+    "id": 6903608219914,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 9456
+  },
+  {
+    "id": 3132066829706,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 4382
+  },
+  {
+    "id": 2358969795941,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 8270
+  },
+  {
+    "id": 1240291308057,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6661
+  },
+  {
+    "id": 1487968369421,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 5318
+  },
+  {
+    "id": 6448642376762,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 8940
+  },
+  {
+    "id": 8757038114813,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 1823
+  },
+  {
+    "id": 9187974357287,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 7192
+  },
+  {
+    "id": 9970712300185,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 9434
+  },
+  {
+    "id": 1548229604344,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 8304
+  },
+  {
+    "id": 7214764699634,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 709
+  },
+  {
+    "id": 3142309275475,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 4823
+  },
+  {
+    "id": 3308215309461,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 4382
+  },
+  {
+    "id": 4048719050496,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 9008
+  },
+  {
+    "id": 7061389693272,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 352
+  },
+  {
+    "id": 9501956974593,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 2075
+  },
+  {
+    "id": 2700019284197,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 9149
+  },
+  {
+    "id": 7680926619533,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 7489
+  },
+  {
+    "id": 9365757781512,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 2273
+  },
+  {
+    "id": 8159122911866,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 1177
+  },
+  {
+    "id": 2968922073869,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 3821
+  },
+  {
+    "id": 4169704801469,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 7843
+  },
+  {
+    "id": 9919424649975,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 6384
+  },
+  {
+    "id": 1722969455706,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 4459
+  },
+  {
+    "id": 8731989701087,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 117
+  },
+  {
+    "id": 5861614655312,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 4033
+  },
+  {
+    "id": 6314895551324,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 1901
+  },
+  {
+    "id": 7121066745910,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 4557
+  },
+  {
+    "id": 8910664145786,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 1388
+  },
+  {
+    "id": 5154072418544,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 8682
+  },
+  {
+    "id": 5205135580464,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 7013
+  },
+  {
+    "id": 5121329242784,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 6723
+  },
+  {
+    "id": 2690611581087,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 5461
+  },
+  {
+    "id": 8580961629362,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 3908
+  },
+  {
+    "id": 1654845015416,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 5334
+  },
+  {
+    "id": 9009957715217,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 3375
+  },
+  {
+    "id": 1462028272723,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 6731
+  },
+  {
+    "id": 5156036948062,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 8915
+  },
+  {
+    "id": 5967415692232,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 1007
+  },
+  {
+    "id": 9332888642368,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 9421
+  },
+  {
+    "id": 4142331148725,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 5072
+  },
+  {
+    "id": 2754619016824,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 4449
+  },
+  {
+    "id": 4466247122852,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 8347
+  },
+  {
+    "id": 6199214562430,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 7989
+  },
+  {
+    "id": 7142927596400,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 4341
+  },
+  {
+    "id": 4113331406164,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 6028
+  },
+  {
+    "id": 2869727422026,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 4034
+  },
+  {
+    "id": 6109203993003,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 7895
+  },
+  {
+    "id": 3108041556272,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 687
+  },
+  {
+    "id": 2961688225310,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 5700
+  },
+  {
+    "id": 1441857902117,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 9280
+  },
+  {
+    "id": 4325892595346,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 8710
+  },
+  {
+    "id": 5145955642880,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 4734
+  },
+  {
+    "id": 9958801856705,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 4890
+  },
+  {
+    "id": 3374910670881,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 6501
+  },
+  {
+    "id": 9732264565542,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 7833
+  },
+  {
+    "id": 1282531804814,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 9924
+  },
+  {
+    "id": 8378960797544,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 8430
+  },
+  {
+    "id": 1836188513276,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 1240
+  },
+  {
+    "id": 7712805958101,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 1502
+  },
+  {
+    "id": 5188174844599,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 6647
+  },
+  {
+    "id": 9180282966095,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 8271
+  },
+  {
+    "id": 5675592367595,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 2776
+  },
+  {
+    "id": 9522717146616,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 3981
+  },
+  {
+    "id": 9773760813940,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 6829
+  },
+  {
+    "id": 4492986553517,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 4912
+  },
+  {
+    "id": 5606414170604,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 9425
+  },
+  {
+    "id": 5408006874475,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 1418
+  },
+  {
+    "id": 4217301842717,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 6708
+  },
+  {
+    "id": 9590223045300,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 6634
+  },
+  {
+    "id": 7983687402804,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 8694
+  },
+  {
+    "id": 4895468511107,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 1908
+  },
+  {
+    "id": 7323373160088,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 7093
+  },
+  {
+    "id": 5623986312891,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 692
+  },
+  {
+    "id": 8919194422570,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 617
+  },
+  {
+    "id": 2527001172492,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 6379
+  },
+  {
+    "id": 8497375417162,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 2911
+  },
+  {
+    "id": 9308403592466,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 6055
+  },
+  {
+    "id": 4533542949820,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 6818
+  },
+  {
+    "id": 1090600667102,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 1497
+  },
+  {
+    "id": 3927606096989,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 6014
+  },
+  {
+    "id": 5080294991802,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 3223
+  },
+  {
+    "id": 3237334553243,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 1478
+  },
+  {
+    "id": 6135372348788,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 6698
+  },
+  {
+    "id": 6396807024561,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 711
+  },
+  {
+    "id": 9227197831075,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 9398
+  },
+  {
+    "id": 8181078355347,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 175
+  },
+  {
+    "id": 3159934171500,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 7977
+  },
+  {
+    "id": 8620330000269,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 8665
+  },
+  {
+    "id": 5967482600231,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 5891
+  },
+  {
+    "id": 8748940045597,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 7222
+  },
+  {
+    "id": 9913397271075,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 6683
+  },
+  {
+    "id": 7218292692635,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 7446
+  },
+  {
+    "id": 6981839345799,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 7800
+  },
+  {
+    "id": 4801082627513,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 6973
+  },
+  {
+    "id": 6420526731324,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 3399
+  },
+  {
+    "id": 4464384269772,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 1872
+  },
+  {
+    "id": 4325430036042,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2063
+  },
+  {
+    "id": 7934044245256,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 4308
+  },
+  {
+    "id": 6702275795367,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 7957
+  },
+  {
+    "id": 5758768160802,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 273
+  },
+  {
+    "id": 5151781897239,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 3896
+  },
+  {
+    "id": 9131421086388,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 7017
+  },
+  {
+    "id": 7662140418636,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 1752
+  },
+  {
+    "id": 3605582868939,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 5397
+  },
+  {
+    "id": 7355708398399,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 886
+  },
+  {
+    "id": 7757579367656,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 5930
+  },
+  {
+    "id": 6744820728034,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 8850
+  },
+  {
+    "id": 3097620932642,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 3434
+  },
+  {
+    "id": 6464080241332,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 3983
+  },
+  {
+    "id": 9860495565216,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 2818
+  },
+  {
+    "id": 1483409348169,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 3621
+  },
+  {
+    "id": 1584306899949,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 4648
+  },
+  {
+    "id": 2525916091217,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 9708
+  },
+  {
+    "id": 3871699458738,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 5521
+  },
+  {
+    "id": 7838526776024,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 3531
+  },
+  {
+    "id": 2652208309492,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 4152
+  },
+  {
+    "id": 9258616746629,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 1572
+  },
+  {
+    "id": 8393263557929,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 1485
+  },
+  {
+    "id": 7741967632882,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 2651
+  },
+  {
+    "id": 5966571293592,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 3083
+  },
+  {
+    "id": 1047850769812,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 932
+  },
+  {
+    "id": 8397285413975,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 4912
+  },
+  {
+    "id": 2864610470452,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 980
+  },
+  {
+    "id": 1614129062930,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 5175
+  },
+  {
+    "id": 1352533227797,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 3138
+  },
+  {
+    "id": 9198526562721,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 3339
+  },
+  {
+    "id": 8838190091064,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 7343
+  },
+  {
+    "id": 4422837454630,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 3887
+  },
+  {
+    "id": 4426311760797,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 4221
+  },
+  {
+    "id": 3648393318845,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 6491
+  },
+  {
+    "id": 4833900125610,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 8497
+  },
+  {
+    "id": 9518780334259,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 4963
+  },
+  {
+    "id": 6550989378664,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 247
+  },
+  {
+    "id": 4702168393214,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 2056
+  },
+  {
+    "id": 5252710766705,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 4388
+  },
+  {
+    "id": 2002669761008,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 9280
+  },
+  {
+    "id": 7078658188905,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 6952
+  },
+  {
+    "id": 8076798197805,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 5460
+  },
+  {
+    "id": 2106997693608,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 824
+  },
+  {
+    "id": 6851345893392,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 1785
+  },
+  {
+    "id": 4170847983381,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 8047
+  },
+  {
+    "id": 5707304971896,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 4439
+  },
+  {
+    "id": 2810804309287,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 7545
+  },
+  {
+    "id": 9832278226986,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 5070
+  },
+  {
+    "id": 5939333448230,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 1160
+  },
+  {
+    "id": 2753240608003,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 5454
+  },
+  {
+    "id": 8191138961297,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 4239
+  },
+  {
+    "id": 9050722169311,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 5721
+  },
+  {
+    "id": 5884093878245,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 3406
+  },
+  {
+    "id": 2272461032757,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 4700
+  },
+  {
+    "id": 4778299457397,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 1404
+  },
+  {
+    "id": 4880201691413,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 690
+  },
+  {
+    "id": 1588190465281,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 6859
+  },
+  {
+    "id": 8572465040015,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 5658
+  },
+  {
+    "id": 9721855651235,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 7780
+  },
+  {
+    "id": 5657654388396,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 5671
+  },
+  {
+    "id": 1740385761936,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 8946
+  },
+  {
+    "id": 4619693389798,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 4087
+  },
+  {
+    "id": 4715337935273,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 9874
+  },
+  {
+    "id": 3437448153243,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 6164
+  },
+  {
+    "id": 9580826058378,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 9168
+  },
+  {
+    "id": 7826487374734,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 4688
+  },
+  {
+    "id": 7291023443750,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 5333
+  },
+  {
+    "id": 7764229110996,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 8565
+  },
+  {
+    "id": 1677697071268,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 7162
+  },
+  {
+    "id": 3966733603812,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 9232
+  },
+  {
+    "id": 5234554234324,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 5449
+  },
+  {
+    "id": 8841023500557,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 2980
+  },
+  {
+    "id": 5978108150639,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 5080
+  },
+  {
+    "id": 1269695903058,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 8310
+  },
+  {
+    "id": 1796572900345,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 4459
+  },
+  {
+    "id": 8674383847841,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 1472
+  },
+  {
+    "id": 9688636812420,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 1824
+  },
+  {
+    "id": 5057521077361,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 4709
+  },
+  {
+    "id": 8311654130689,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 396
+  },
+  {
+    "id": 4845633840246,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 5166
+  },
+  {
+    "id": 7318561865667,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 5460
+  },
+  {
+    "id": 5942449846538,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 3317
+  },
+  {
+    "id": 3858666172725,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 4279
+  },
+  {
+    "id": 2773664347080,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 1006
+  },
+  {
+    "id": 7495344703487,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 355
+  },
+  {
+    "id": 1647141344184,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 9329
+  },
+  {
+    "id": 2690968599512,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 3064
+  },
+  {
+    "id": 8509679927154,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 6886
+  },
+  {
+    "id": 6903835248151,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 3949
+  },
+  {
+    "id": 7569564617063,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 4184
+  },
+  {
+    "id": 5112924841118,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 1539
+  },
+  {
+    "id": 9312398621779,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 4889
+  },
+  {
+    "id": 3058332967840,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 4384
+  },
+  {
+    "id": 2495286664662,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 6505
+  },
+  {
+    "id": 6154301618579,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 4873
+  },
+  {
+    "id": 6492540843290,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6112
+  },
+  {
+    "id": 4868575735305,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 9883
+  },
+  {
+    "id": 3728347120468,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6835
+  },
+  {
+    "id": 9066965195254,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 9009
+  },
+  {
+    "id": 8303895574924,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 4967
+  },
+  {
+    "id": 7947234417930,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 7314
+  },
+  {
+    "id": 2196979549646,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 9049
+  },
+  {
+    "id": 4448865175979,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 6245
+  },
+  {
+    "id": 7283188427857,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 1239
+  },
+  {
+    "id": 4069657933690,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 8330
+  },
+  {
+    "id": 7471118527593,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 7556
+  },
+  {
+    "id": 6896008060410,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 7527
+  },
+  {
+    "id": 5504417208627,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 663
+  },
+  {
+    "id": 6585478390567,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 5930
+  },
+  {
+    "id": 5839878153721,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 5942
+  },
+  {
+    "id": 8022466703493,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 7454
+  },
+  {
+    "id": 7591009054703,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 585
+  },
+  {
+    "id": 8151475505583,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 2414
+  },
+  {
+    "id": 5118598680030,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 3826
+  },
+  {
+    "id": 1793843192160,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 9675
+  },
+  {
+    "id": 6264364291812,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 3493
+  },
+  {
+    "id": 2906049553428,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 2515
+  },
+  {
+    "id": 2952220017418,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 1166
+  },
+  {
+    "id": 8199568509270,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 809
+  },
+  {
+    "id": 1617881366854,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 6841
+  },
+  {
+    "id": 5616008546828,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 1766
+  },
+  {
+    "id": 5858608162880,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 4549
+  },
+  {
+    "id": 5042127620843,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 4904
+  },
+  {
+    "id": 4482728328190,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 7419
+  },
+  {
+    "id": 7655796910437,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 8880
+  },
+  {
+    "id": 1843220977535,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 9435
+  },
+  {
+    "id": 4871420866143,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 9364
+  },
+  {
+    "id": 9765446423758,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 3689
+  },
+  {
+    "id": 5955357365533,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 4507
+  },
+  {
+    "id": 5443302766270,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 1050
+  },
+  {
+    "id": 6279634258155,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 6894
+  },
+  {
+    "id": 4148369762420,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 9102
+  },
+  {
+    "id": 7576926877140,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 9320
+  },
+  {
+    "id": 3618453253956,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 5931
+  },
+  {
+    "id": 1351605190158,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 6737
+  },
+  {
+    "id": 7113059341097,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 1325
+  },
+  {
+    "id": 9992605635154,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 2829
+  },
+  {
+    "id": 9387559454553,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 3951
+  },
+  {
+    "id": 3211579265240,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 9818
+  },
+  {
+    "id": 3249375524026,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 3852
+  },
+  {
+    "id": 7502724962821,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 2034
+  },
+  {
+    "id": 7645604893023,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 239
+  },
+  {
+    "id": 2596442271629,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 7593
+  },
+  {
+    "id": 3762683688095,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 6355
+  },
+  {
+    "id": 5421305076233,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 4404
+  },
+  {
+    "id": 1437804329812,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 4167
+  },
+  {
+    "id": 3301732849436,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 2025
+  },
+  {
+    "id": 1014835917412,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 6192
+  },
+  {
+    "id": 1713063640287,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 8783
+  },
+  {
+    "id": 5530890255148,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 5839
+  },
+  {
+    "id": 7423176047487,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 688
+  },
+  {
+    "id": 4622313964857,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 5899
+  },
+  {
+    "id": 3054682507922,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 2528
+  },
+  {
+    "id": 1855503545762,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 9441
+  },
+  {
+    "id": 9465767976424,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 8412
+  },
+  {
+    "id": 7935949471544,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 842
+  },
+  {
+    "id": 8133824325452,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 7526
+  },
+  {
+    "id": 8789887488750,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 3022
+  },
+  {
+    "id": 3705068577671,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 9301
+  },
+  {
+    "id": 8727028185977,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 7818
+  },
+  {
+    "id": 2309712882958,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 1996
+  },
+  {
+    "id": 1141524645479,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 253
+  },
+  {
+    "id": 3475892840838,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 2055
+  },
+  {
+    "id": 7802972295089,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 8064
+  },
+  {
+    "id": 4305194484839,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 5603
+  },
+  {
+    "id": 1097639604034,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 2082
+  },
+  {
+    "id": 8651109154879,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6375
+  },
+  {
+    "id": 8596135985419,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 2573
+  },
+  {
+    "id": 1829134826216,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 2058
+  },
+  {
+    "id": 4554211423742,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 3257
+  },
+  {
+    "id": 6615813552965,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 7182
+  },
+  {
+    "id": 3472127697626,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 692
+  },
+  {
+    "id": 6943603747828,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 6137
+  },
+  {
+    "id": 7202378830444,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 2541
+  },
+  {
+    "id": 4275349894100,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 772
+  },
+  {
+    "id": 9900348337795,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 5740
+  },
+  {
+    "id": 1303777114732,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 113
+  },
+  {
+    "id": 1210290472572,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 1018
+  },
+  {
+    "id": 4688231952689,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 2261
+  },
+  {
+    "id": 2960244226330,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 8345
+  },
+  {
+    "id": 7066824233408,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 4275
+  },
+  {
+    "id": 6839575425599,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 8245
+  },
+  {
+    "id": 2754414077743,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 6831
+  },
+  {
+    "id": 1014108238636,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 8232
+  },
+  {
+    "id": 5735708626150,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 2395
+  },
+  {
+    "id": 2554143035515,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 6965
+  },
+  {
+    "id": 6085906359756,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 6351
+  },
+  {
+    "id": 5799001166502,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 9789
+  },
+  {
+    "id": 3614363990423,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 8738
+  },
+  {
+    "id": 7810333618893,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 8221
+  },
+  {
+    "id": 9975722843699,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 9770
+  },
+  {
+    "id": 1357070341520,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 4579
+  },
+  {
+    "id": 4319454803873,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 1185
+  },
+  {
+    "id": 5264886496459,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 800
+  },
+  {
+    "id": 2167275653391,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6830
+  },
+  {
+    "id": 3095784822358,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 2376
+  },
+  {
+    "id": 6066052775377,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 4969
+  },
+  {
+    "id": 5233674345292,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 1714
+  },
+  {
+    "id": 5169750523697,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 5586
+  },
+  {
+    "id": 5157411107037,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 1354
+  },
+  {
+    "id": 9290757879813,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 3019
+  },
+  {
+    "id": 8444058178073,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 3684
+  },
+  {
+    "id": 4768654005152,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 5439
+  },
+  {
+    "id": 4247229808044,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 6070
+  },
+  {
+    "id": 4737964640958,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 684
+  },
+  {
+    "id": 6531190854270,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 5188
+  },
+  {
+    "id": 2641930585918,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 2956
+  },
+  {
+    "id": 1933591200167,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 6368
+  },
+  {
+    "id": 8106051424708,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 936
+  },
+  {
+    "id": 7093221595777,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 9185
+  },
+  {
+    "id": 7363295720829,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 803
+  },
+  {
+    "id": 7492787566103,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 3443
+  },
+  {
+    "id": 5439556168704,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 603
+  },
+  {
+    "id": 1287882651889,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 8460
+  },
+  {
+    "id": 9027718232096,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 849
+  },
+  {
+    "id": 9095016767268,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 8108
+  },
+  {
+    "id": 7976318887120,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 9797
+  },
+  {
+    "id": 2323619052808,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 1770
+  },
+  {
+    "id": 1134269123090,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 860
+  },
+  {
+    "id": 1661074904526,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 8537
+  },
+  {
+    "id": 8655925248488,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 7937
+  },
+  {
+    "id": 3905976932104,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 4217
+  },
+  {
+    "id": 1685498141224,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 116
+  },
+  {
+    "id": 8817856617109,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 631
+  },
+  {
+    "id": 5882357671772,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 7873
+  },
+  {
+    "id": 2462637688633,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 151
+  },
+  {
+    "id": 2929710351666,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 8807
+  },
+  {
+    "id": 7414669642980,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 4821
+  },
+  {
+    "id": 6772901832797,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 8096
+  },
+  {
+    "id": 8298266649014,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 4687
+  },
+  {
+    "id": 5237021514638,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 9619
+  },
+  {
+    "id": 1011756491697,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 5978
+  },
+  {
+    "id": 6120239032599,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 8772
+  },
+  {
+    "id": 3776800515177,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 7298
+  },
+  {
+    "id": 6374545875363,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 2390
+  },
+  {
+    "id": 8574966845964,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 7303
+  },
+  {
+    "id": 8646399430389,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 7312
+  },
+  {
+    "id": 9799888889829,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 9476
+  },
+  {
+    "id": 5576675178924,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 8486
+  },
+  {
+    "id": 9611141986182,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 3156
+  },
+  {
+    "id": 5498236965732,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 9417
+  },
+  {
+    "id": 8770919097449,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 8872
+  },
+  {
+    "id": 8949687978352,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 8771
+  },
+  {
+    "id": 5050328092020,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 1835
+  },
+  {
+    "id": 3542918758445,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 7724
+  },
+  {
+    "id": 7654917356379,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 650
+  },
+  {
+    "id": 3204351754253,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 4621
+  },
+  {
+    "id": 2062388828036,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 5008
+  },
+  {
+    "id": 5545471675064,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 1802
+  },
+  {
+    "id": 8042424147737,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 3057
+  },
+  {
+    "id": 6780366830491,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 3410
+  },
+  {
+    "id": 7475125245279,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 1042
+  },
+  {
+    "id": 7904863600501,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 1357
+  },
+  {
+    "id": 8455351623964,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 6734
+  },
+  {
+    "id": 8542656981970,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 3982
+  },
+  {
+    "id": 5722019521428,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 9405
+  },
+  {
+    "id": 9126925202993,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 1500
+  },
+  {
+    "id": 2006550183987,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 2139
+  },
+  {
+    "id": 7690811020954,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 1593
+  },
+  {
+    "id": 5676511921435,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 3026
+  },
+  {
+    "id": 7127022649519,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 2744
+  },
+  {
+    "id": 6800271363515,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 3922
+  },
+  {
+    "id": 8229432998841,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 6908
+  },
+  {
+    "id": 3169258113937,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 4604
+  },
+  {
+    "id": 7672224191820,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 9895
+  },
+  {
+    "id": 5589105243534,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 4059
+  },
+  {
+    "id": 5112033277328,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 2611
+  },
+  {
+    "id": 6079964182385,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 1958
+  },
+  {
+    "id": 6983185693190,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 5767
+  },
+  {
+    "id": 4467662655303,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 4263
+  },
+  {
+    "id": 4752374828120,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 8952
+  },
+  {
+    "id": 5724330984090,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 1391
+  },
+  {
+    "id": 4020411515815,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 8250
+  },
+  {
+    "id": 3265229562112,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 774
+  },
+  {
+    "id": 5213111443699,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 3609
+  },
+  {
+    "id": 9212150750044,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 6352
+  },
+  {
+    "id": 8532832926992,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 4276
+  },
+  {
+    "id": 2131634941359,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 1763
+  },
+  {
+    "id": 3205043850454,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 641
+  },
+  {
+    "id": 5686234304154,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 9374
+  },
+  {
+    "id": 3208448336788,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 2205
+  },
+  {
+    "id": 4582393888019,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6553
+  },
+  {
+    "id": 6605594519119,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 4361
+  },
+  {
+    "id": 6814428065525,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 851
+  },
+  {
+    "id": 6432702897252,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 9051
+  },
+  {
+    "id": 3466781481806,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 7475
+  },
+  {
+    "id": 9853223346331,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 5253
+  },
+  {
+    "id": 2547332075616,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 1296
+  },
+  {
+    "id": 2427347696397,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 9998
+  },
+  {
+    "id": 9027693658715,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 5637
+  },
+  {
+    "id": 4111780197445,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 2324
+  },
+  {
+    "id": 9567765206486,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 9650
+  },
+  {
+    "id": 5291032458282,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6168
+  },
+  {
+    "id": 5983044209431,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 3070
+  },
+  {
+    "id": 3693133156953,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 2405
+  },
+  {
+    "id": 1958768703245,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 7207
+  },
+  {
+    "id": 1059790267036,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 6866
+  },
+  {
+    "id": 1301882943706,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 4219
+  },
+  {
+    "id": 8565625172993,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 510
+  },
+  {
+    "id": 3980341612040,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 2500
+  },
+  {
+    "id": 6299428999931,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 5345
+  },
+  {
+    "id": 6269682573768,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 6100
+  },
+  {
+    "id": 7310958966100,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 9363
+  },
+  {
+    "id": 7912521440818,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 2211
+  },
+  {
+    "id": 6078098241420,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 5405
+  },
+  {
+    "id": 1189052682025,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 1666
+  },
+  {
+    "id": 9610191457670,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 8945
+  },
+  {
+    "id": 7411100830509,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 6397
+  },
+  {
+    "id": 2251199621374,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 6932
+  },
+  {
+    "id": 7136386721703,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 2603
+  },
+  {
+    "id": 6234849080505,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 9663
+  },
+  {
+    "id": 5137205019339,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 3329
+  },
+  {
+    "id": 1764491712961,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 8506
+  },
+  {
+    "id": 3687357762013,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 5322
+  },
+  {
+    "id": 3173106105681,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 1783
+  },
+  {
+    "id": 4168959961088,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 2996
+  },
+  {
+    "id": 4608487478399,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 3587
+  },
+  {
+    "id": 8499096644997,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 2697
+  },
+  {
+    "id": 8018275707959,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 4030
+  },
+  {
+    "id": 6938817732058,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 4709
+  },
+  {
+    "id": 5700494061633,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 9018
+  },
+  {
+    "id": 4452707316525,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 9315
+  },
+  {
+    "id": 4717626974585,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 9253
+  },
+  {
+    "id": 3208748399291,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 6581
+  },
+  {
+    "id": 6069890585428,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 1202
+  },
+  {
+    "id": 3447950334745,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 4799
+  },
+  {
+    "id": 5791295584714,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 2000
+  },
+  {
+    "id": 3456874405813,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 1820
+  },
+  {
+    "id": 3934746218712,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 4337
+  },
+  {
+    "id": 5464424008237,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 4270
+  },
+  {
+    "id": 9343166781096,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 5683
+  },
+  {
+    "id": 4259854329886,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 8343
+  },
+  {
+    "id": 2737089235072,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 3841
+  },
+  {
+    "id": 3309152435828,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 3154
+  },
+  {
+    "id": 3753773926990,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 3165
+  },
+  {
+    "id": 7104611761805,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 8665
+  },
+  {
+    "id": 1173014920946,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 705
+  },
+  {
+    "id": 8637138336276,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 3868
+  },
+  {
+    "id": 5061057077463,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 4348
+  },
+  {
+    "id": 4776741465209,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 6329
+  },
+  {
+    "id": 2910374061231,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 3721
+  },
+  {
+    "id": 2964918639419,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 5520
+  },
+  {
+    "id": 8705138118176,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 8348
+  },
+  {
+    "id": 9813727060824,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 5534
+  },
+  {
+    "id": 3964088923209,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 2779
+  },
+  {
+    "id": 7178114820131,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 6533
+  },
+  {
+    "id": 3301397885528,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 2058
+  },
+  {
+    "id": 9304170385295,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 5446
+  },
+  {
+    "id": 4770157895823,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 7814
+  },
+  {
+    "id": 7777545535002,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 3788
+  },
+  {
+    "id": 4922264359181,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 685
+  },
+  {
+    "id": 3837659758833,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 5825
+  },
+  {
+    "id": 3359876689002,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 8825
+  },
+  {
+    "id": 5493942815571,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 6064
+  },
+  {
+    "id": 8615669354533,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 325
+  },
+  {
+    "id": 8968322713810,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 7948
+  },
+  {
+    "id": 8908280238221,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 5604
+  },
+  {
+    "id": 3971186137189,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 6064
+  },
+  {
+    "id": 2804083306536,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 8890
+  },
+  {
+    "id": 9978776076323,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 2940
+  },
+  {
+    "id": 4175013656143,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 9715
+  },
+  {
+    "id": 2550769702186,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 2358
+  },
+  {
+    "id": 7249899170674,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 3073
+  },
+  {
+    "id": 7721988434772,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 3489
+  },
+  {
+    "id": 5116092152798,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 6410
+  },
+  {
+    "id": 1928496539763,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 8892
+  },
+  {
+    "id": 3632654576716,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 8817
+  },
+  {
+    "id": 8350819585402,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 255
+  },
+  {
+    "id": 9987546871062,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2637
+  },
+  {
+    "id": 1968644279219,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 6769
+  },
+  {
+    "id": 9315940868023,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 1825
+  },
+  {
+    "id": 4192760836653,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 859
+  },
+  {
+    "id": 5339761918915,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 2840
+  },
+  {
+    "id": 3604474181162,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 5707
+  },
+  {
+    "id": 1233418777826,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 6809
+  },
+  {
+    "id": 9142593607556,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 865
+  },
+  {
+    "id": 7791173110648,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 5707
+  },
+  {
+    "id": 3038589221977,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 1687
+  },
+  {
+    "id": 9713552768214,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 5906
+  },
+  {
+    "id": 5092574980960,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 7890
+  },
+  {
+    "id": 1284618184643,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 4486
+  },
+  {
+    "id": 4685252381884,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6702
+  },
+  {
+    "id": 5182952087143,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 2813
+  },
+  {
+    "id": 6699459982077,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 548
+  },
+  {
+    "id": 5714510027067,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 2648
+  },
+  {
+    "id": 6102480488282,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 6513
+  },
+  {
+    "id": 1806479421451,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 8442
+  },
+  {
+    "id": 7253841575283,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 8621
+  },
+  {
+    "id": 9231830286450,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 1421
+  },
+  {
+    "id": 7341574180580,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 7730
+  },
+  {
+    "id": 8678648835861,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 8899
+  },
+  {
+    "id": 3667545662521,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 799
+  },
+  {
+    "id": 6379844595717,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 8630
+  },
+  {
+    "id": 3062015931389,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 4102
+  },
+  {
+    "id": 1303293418591,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 1907
+  },
+  {
+    "id": 9024499463596,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 675
+  },
+  {
+    "id": 7643720902186,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 9467
+  },
+  {
+    "id": 6288243821548,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 1539
+  },
+  {
+    "id": 8136317194634,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 3324
+  },
+  {
+    "id": 1262726542012,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 923
+  },
+  {
+    "id": 1731709617833,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 545
+  },
+  {
+    "id": 9810222013103,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 440
+  },
+  {
+    "id": 7258966464623,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 7748
+  },
+  {
+    "id": 5860716438467,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 6569
+  },
+  {
+    "id": 7923902409240,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 1824
+  },
+  {
+    "id": 7878006944449,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 8007
+  },
+  {
+    "id": 2294770959907,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 6428
+  },
+  {
+    "id": 6794840620178,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 7581
+  },
+  {
+    "id": 6473524683747,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 6584
+  },
+  {
+    "id": 4805134562606,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 7265
+  },
+  {
+    "id": 3737703480195,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 6078
+  },
+  {
+    "id": 8870085171611,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 4390
+  },
+  {
+    "id": 2754693906468,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 5098
+  },
+  {
+    "id": 7354877254033,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 1250
+  },
+  {
+    "id": 2836135598400,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 2223
+  },
+  {
+    "id": 4874739333313,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 9337
+  },
+  {
+    "id": 6397474570173,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 5300
+  },
+  {
+    "id": 8648938207711,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 7207
+  },
+  {
+    "id": 1870895359055,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 6541
+  },
+  {
+    "id": 9416135747915,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 2198
+  },
+  {
+    "id": 8803090734869,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 4408
+  },
+  {
+    "id": 1865062146431,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 518
+  },
+  {
+    "id": 9064396236853,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 1359
+  },
+  {
+    "id": 6269526824014,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 6271
+  },
+  {
+    "id": 6366185321335,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 4640
+  },
+  {
+    "id": 9520895941564,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 3707
+  },
+  {
+    "id": 7883652146763,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 2903
+  },
+  {
+    "id": 4417790887959,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 9699
+  },
+  {
+    "id": 5962270643787,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 1550
+  },
+  {
+    "id": 2467317816046,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 7794
+  },
+  {
+    "id": 4414811441422,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 4520
+  },
+  {
+    "id": 6976347973446,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 9424
+  },
+  {
+    "id": 1268007360264,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 6906
+  },
+  {
+    "id": 3193634945355,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 8792
+  },
+  {
+    "id": 6805868300444,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 3120
+  },
+  {
+    "id": 7773451975045,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 7389
+  },
+  {
+    "id": 6092499888666,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 5404
+  },
+  {
+    "id": 8219212819965,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 5537
+  },
+  {
+    "id": 8241976523345,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 7687
+  },
+  {
+    "id": 2739453138521,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 5396
+  },
+  {
+    "id": 2554675559695,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 6651
+  },
+  {
+    "id": 6359443225519,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 2785
+  },
+  {
+    "id": 1111414829904,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 8674
+  },
+  {
+    "id": 3322157852776,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 9741
+  },
+  {
+    "id": 6578216237378,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 9886
+  },
+  {
+    "id": 9369315243319,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 8652
+  },
+  {
+    "id": 7047002812761,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 8965
+  },
+  {
+    "id": 3224164337903,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 6927
+  },
+  {
+    "id": 8897690903615,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 7736
+  },
+  {
+    "id": 3123707554889,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 9028
+  },
+  {
+    "id": 4486427443737,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 6674
+  },
+  {
+    "id": 1362949781113,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 7392
+  },
+  {
+    "id": 9641234533851,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 9031
+  },
+  {
+    "id": 7049392525840,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 7268
+  },
+  {
+    "id": 4692824848582,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 1016
+  },
+  {
+    "id": 6946571393298,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 2300
+  },
+  {
+    "id": 2369509477851,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 785
+  },
+  {
+    "id": 9792607533167,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 5346
+  },
+  {
+    "id": 3374649350379,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 7933
+  },
+  {
+    "id": 3489671632764,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 1043
+  },
+  {
+    "id": 4339587516624,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 6593
+  },
+  {
+    "id": 6816823169706,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 3151
+  },
+  {
+    "id": 4715537619640,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 7519
+  },
+  {
+    "id": 5251286060523,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 1600
+  },
+  {
+    "id": 2397340445367,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 5717
+  },
+  {
+    "id": 3162876035506,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 8627
+  },
+  {
+    "id": 3281798589618,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 306
+  },
+  {
+    "id": 3186730416749,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 6574
+  },
+  {
+    "id": 1418708189541,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 7726
+  },
+  {
+    "id": 3705578418110,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 7367
+  },
+  {
+    "id": 6177241023287,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 4884
+  },
+  {
+    "id": 8220225936676,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 8971
+  },
+  {
+    "id": 1415079088630,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 7362
+  },
+  {
+    "id": 9523359893142,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 2484
+  },
+  {
+    "id": 2661800580087,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 7632
+  },
+  {
+    "id": 1861038618307,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 389
+  },
+  {
+    "id": 7699054800284,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 807
+  },
+  {
+    "id": 8251410528677,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 3817
+  },
+  {
+    "id": 1240576613276,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 5366
+  },
+  {
+    "id": 7978712564645,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 4041
+  },
+  {
+    "id": 9759083660053,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 3480
+  },
+  {
+    "id": 2503395836702,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 6852
+  },
+  {
+    "id": 9660821700882,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 8658
+  },
+  {
+    "id": 4066412454505,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 4269
+  },
+  {
+    "id": 1806750958808,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 8000
+  },
+  {
+    "id": 6532056160838,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 9428
+  },
+  {
+    "id": 6945746790397,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 2913
+  },
+  {
+    "id": 6105317204768,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 964
+  },
+  {
+    "id": 2867053888096,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 1743
+  },
+  {
+    "id": 7741772780184,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 8059
+  },
+  {
+    "id": 7690759170334,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 309
+  },
+  {
+    "id": 1035606594150,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 7145
+  },
+  {
+    "id": 6495766933499,
+    "name": "Microwave",
+    "category": "Home Appliances",
+    "price": 4648
+  },
+  {
+    "id": 5900217456548,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 3594
+  },
+  {
+    "id": 5809169363063,
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 7067
+  },
+  {
+    "id": 5889980392095,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 2440
+  },
+  {
+    "id": 5181512035749,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 5695
+  },
+  {
+    "id": 8150532148507,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 3920
+  },
+  {
+    "id": 6480163466829,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 950
+  },
+  {
+    "id": 2010710543336,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 3184
+  },
+  {
+    "id": 6427238540708,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 1264
+  },
+  {
+    "id": 6740868007248,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 1905
+  },
+  {
+    "id": 3432344475910,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 5346
+  },
+  {
+    "id": 3263698625801,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 4615
+  },
+  {
+    "id": 8719041071664,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 483
+  },
+  {
+    "id": 3202558383205,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 8738
+  },
+  {
+    "id": 3376727764083,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 4063
+  },
+  {
+    "id": 6779544553394,
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 1315
+  },
+  {
+    "id": 1166482246664,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 9416
+  },
+  {
+    "id": 4969375968502,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 8388
+  },
+  {
+    "id": 7345004414565,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 5437
+  },
+  {
+    "id": 4807094850386,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 8826
+  },
+  {
+    "id": 8550252381496,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 2861
+  },
+  {
+    "id": 1586038355702,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6290
+  },
+  {
+    "id": 4688732352044,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 6514
+  },
+  {
+    "id": 3513133426032,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 8550
+  },
+  {
+    "id": 6786302482789,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 2628
+  },
+  {
+    "id": 7036034815772,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 2672
+  },
+  {
+    "id": 6433412280779,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 3942
+  },
+  {
+    "id": 7228369336267,
+    "name": "Board Game",
+    "category": "Toys",
+    "price": 5922
+  },
+  {
+    "id": 4193149334756,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 8033
+  },
+  {
+    "id": 1117930145671,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 8241
+  },
+  {
+    "id": 1396514436919,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 1044
+  },
+  {
+    "id": 6172282222084,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 636
+  },
+  {
+    "id": 1110638739571,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 9852
+  },
+  {
+    "id": 3753272081216,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 8122
+  },
+  {
+    "id": 6432952626875,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 7087
+  },
+  {
+    "id": 9068843537094,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 9788
+  },
+  {
+    "id": 7582314564528,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 8311
+  },
+  {
+    "id": 5207537193375,
+    "name": "Lego Set",
+    "category": "Toys",
+    "price": 9085
+  },
+  {
+    "id": 3470733018452,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 7287
+  },
+  {
+    "id": 2780486040044,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 6047
+  },
+  {
+    "id": 8233096505712,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 8226
+  },
+  {
+    "id": 3407926593480,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 6260
+  },
+  {
+    "id": 3590397047644,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 2232
+  },
+  {
+    "id": 5150953212367,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 5671
+  },
+  {
+    "id": 7862218693562,
+    "name": "Dress",
+    "category": "Clothing",
+    "price": 9945
+  },
+  {
+    "id": 7675923255581,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 9301
+  },
+  {
+    "id": 8032640953287,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 912
+  },
+  {
+    "id": 4975042776560,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 5177
+  },
+  {
+    "id": 8235392054349,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 4082
+  },
+  {
+    "id": 4224841151420,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 6719
+  },
+  {
+    "id": 5757034545770,
+    "name": "Wallet",
+    "category": "Accessories",
+    "price": 8386
+  },
+  {
+    "id": 3577736515547,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 343
+  },
+  {
+    "id": 2201719488748,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 3660
+  },
+  {
+    "id": 1362561967196,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 5675
+  },
+  {
+    "id": 5876963522451,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 2521
+  },
+  {
+    "id": 5839309037632,
+    "name": "Charger",
+    "category": "Electronics",
+    "price": 9442
+  },
+  {
+    "id": 7430635486110,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 1234
+  },
+  {
+    "id": 5380451820344,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 525
+  },
+  {
+    "id": 8593207749635,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 9650
+  },
+  {
+    "id": 6764263110998,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 229
+  },
+  {
+    "id": 9895785684905,
+    "name": "Heater",
+    "category": "Home Appliances",
+    "price": 407
+  },
+  {
+    "id": 8794962474123,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 6870
+  },
+  {
+    "id": 5840454160893,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 9085
+  },
+  {
+    "id": 4975702873919,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 1708
+  },
+  {
+    "id": 6543424467246,
+    "name": "Hat",
+    "category": "Clothing",
+    "price": 8432
+  },
+  {
+    "id": 2388058030601,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 2600
+  },
+  {
+    "id": 3056544199848,
+    "name": "Bed",
+    "category": "Furniture",
+    "price": 306
+  },
+  {
+    "id": 5944791381245,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 120
+  },
+  {
+    "id": 3416245484920,
+    "name": "Action Figure",
+    "category": "Toys",
+    "price": 4820
+  },
+  {
+    "id": 7257275581801,
+    "name": "Couch",
+    "category": "Furniture",
+    "price": 4491
+  },
+  {
+    "id": 4767559602478,
+    "name": "Fan",
+    "category": "Home Appliances",
+    "price": 3318
+  },
+  {
+    "id": 8786828822829,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 619
+  },
+  {
+    "id": 6018447136288,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 4080
+  },
+  {
+    "id": 2941637990528,
+    "name": "Toaster",
+    "category": "Home Appliances",
+    "price": 8630
+  },
+  {
+    "id": 2859608995716,
+    "name": "Cabinet",
+    "category": "Furniture",
+    "price": 2555
+  },
+  {
+    "id": 2551097351319,
+    "name": "Doll",
+    "category": "Toys",
+    "price": 8956
+  },
+  {
+    "id": 8782039952646,
+    "name": "Belt",
+    "category": "Accessories",
+    "price": 9582
+  },
+  {
+    "id": 6801165054539,
+    "name": "Shoes",
+    "category": "Clothing",
+    "price": 8958
+  },
+  {
+    "id": 8220801905049,
+    "name": "Puzzle",
+    "category": "Toys",
+    "price": 7476
+  },
+  {
+    "id": 2488226141181,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 8845
+  },
+  {
+    "id": 2933505517258,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 4807
+  },
+  {
+    "id": 6741810349592,
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": 4554
+  },
+  {
+    "id": 5749121304364,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 103
+  }
 ]
